@@ -9,6 +9,7 @@
 
 - 🧑🏽‍💻 Fullstack developer
 - 🌐 Java, Spring Framework (Spring boot, Spring Cloud)
+- 🖥️ Frontend Angular & Vue
 - 📚 Firme creyente en el aprendizaje continuo y la actualización constante para enfrentar los retos del desarrollo moderno
 <br>
 
