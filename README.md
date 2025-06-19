@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Rafael Dzul 🧑🏽‍💻</h1>
 </div>
-<img src="https://i.imgur.com/l9lemUP.jpeg">
+<img src="https://i.imgur.com/E3u3XPg.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/radzul?style=social)](https://github.com/radzul)
 
